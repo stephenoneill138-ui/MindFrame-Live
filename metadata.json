@@ -1,0 +1,5 @@
+{
+  "name": "MindFrame Live",
+  "description": "A web dashboard that provides a real-time visualization of an AI's cognitive health, introspection, and hallucination awareness. It simulates an AI's thought process, analyzes its own output for potential fabrications, and displays metrics on its 'mental state'.",
+  "requestFramePermissions": []
+}
